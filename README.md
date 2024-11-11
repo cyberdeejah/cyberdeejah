@@ -9,7 +9,7 @@ This repository contains different subdirectories for my **VAPT** projects, tool
 ### 🔍 **VAPT Projects**  
 These are practical assessments and penetration tests I have performed, with details of methodologies, tools, and findings.  
 
-- **[Web Application Penetration Testing](./web-app-vapt)**:  
+- **[Secure Code Review](https://github.com/cyberdeejah/Secure-Code-Review/blob/main/README.md)**:  
   A complete project showcasing web application penetration testing, from reconnaissance to exploitation and reporting.
 
 - **[Network Penetration Testing](./network-vapt)**:  
