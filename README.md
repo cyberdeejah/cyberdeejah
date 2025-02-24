@@ -46,7 +46,7 @@ Educational content, presentations, and training materials related to VAPT and c
   Sample reports and documentation that provide insight into my findings during assessments, including executive summaries, risk ratings, and remediation advice.
 
 - **[Webinars & Talks](./webinars-talks)**:  
-  Links to presentations, recorded webinars, and conference talks that I have delivered on various topics within cybersecurity.
+  Links to presentations, recorded webinars, and conference talks that I have attended on various topics within cybersecurity.
 
 ### 🔒 **Security Best Practices**  
 A directory for the development and documentation of best practices and guides for securing applications and systems.
@@ -83,8 +83,8 @@ As a **Vulnerability Assessment and Penetration Testing (VAPT)** professional, I
 
 If you have any questions, suggestions, or collaboration inquiries, feel free to reach out!
 
-- Email: [your.email@example.com] (aloziebethel75@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile] (https://linkedin.com/in/khadijat-suleiman)
+- Email: (aloziebethel75@gmail.com)
+- LinkedIn: (https://linkedin.com/in/khadijat-suleiman)
 
 ---
 
@@ -98,7 +98,4 @@ Feel free to fork and clone this repository for educational purposes. I always a
 
 ---
 
-### **Notes**  
-- Replace the placeholder links with your actual subdirectory names and URLs where relevant.
-- You can also add additional sections such as a **"Certifications"** or **"Professional Experience"** section if you feel it’s important for your audience.
 
